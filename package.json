@@ -1,0 +1,27 @@
+{
+  "name": "social-media",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mansi-07/Social-Media.git"
+  },
+  "author": "Mansi Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mansi-07/Social-Media/issues"
+  },
+  "homepage": "https://github.com/mansi-07/Social-Media#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.15"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
